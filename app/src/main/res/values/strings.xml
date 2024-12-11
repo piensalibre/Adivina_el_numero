@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Adivina el número</string>
+    <string name="info">Por favor escoge el número de dígitos del número a adivinar. El número de intentos variará dependiendo del número de dígitos.</string>
 </resources>
